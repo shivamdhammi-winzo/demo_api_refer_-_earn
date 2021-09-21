@@ -1,11 +1,47 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "userType":0,
+   "totalReferrals":0,
+   "headerImageUrl":"",
+   "carousel":[
+      {
+         "imageUrl":"",
+         "deepLink":""
+      }
+   ],
+   "referralBenefits":[
+      {
+         "amount":"",
+         "mainText":"",
+         "amountBreakUp":"",
+         "iconUrl":"",
+         "gradient":"",
+         "info":{
+            "description":"",
+            "iconURl":"",
+            "header":"",
+            "action":[
+               {
+                  "cta":"",
+                  "deeplink":""
+               }
+            ]
+         }
+      }
+   ],
+   "referButtonInfo":{
+      "text":"",
+      "deepLink":"",
+      "icon":""
+   },
+   "bottomBanner":[
+      {
+         "imageUrl":"",
+         "deepLink":""
+      }
+   ],
+   "bottomReferButtonInfo":{
+      "text":"",
+      "deepLink":"",
+      "icon":""
+   }
 }
