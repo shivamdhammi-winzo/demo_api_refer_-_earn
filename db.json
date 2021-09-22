@@ -24,6 +24,7 @@
     "referralBenefits": [
       {
         "amount": "10",
+        "currencySign": "₹",
         "mainText": "Friend Install and verify the App",
         "amountBreakUp": "`5 Bonus + `5 unplayed cash",
         "iconUrl": "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png",
@@ -46,6 +47,7 @@
       },
       {
         "amount": "30",
+        "currencySign": "₹",
         "mainText": "Friend's 1st Deposit",
         "amountBreakUp": "`15 Bonus + `15 Winnings",
         "iconUrl": "",
@@ -68,6 +70,7 @@
       },
       {
         "amount": "5",
+        "currencySign": "",
         "mainText": "Friend Plays 10 games",
         "amountBreakUp": "",
         "iconUrl": "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png",
