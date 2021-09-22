@@ -26,7 +26,7 @@
         "amount": "10",
         "currencySign": "₹",
         "mainText": "Friend Install and verify the App",
-        "amountBreakUp": "`5 Bonus + `5 unplayed cash",
+        "amountBreakUp": "₹5 Bonus + ₹5 unplayed cash",
         "iconUrl": "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png",
         "gradient": [
           "#00c4c3",
@@ -49,7 +49,7 @@
         "amount": "30",
         "currencySign": "₹",
         "mainText": "Friend's 1st Deposit",
-        "amountBreakUp": "`15 Bonus + `15 Winnings",
+        "amountBreakUp": "₹15 Bonus + ₹15 Winnings",
         "iconUrl": "",
         "gradient": [
           "#ff6fb6",
