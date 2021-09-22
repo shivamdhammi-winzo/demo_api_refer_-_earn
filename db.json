@@ -93,16 +93,54 @@
       "deepLink": "",
       "icon": ""
     },
-    "ssData":{
+    "ssData": {
       "qualityScore": 2,
       "badgeIconUrl": "",
-      "ssLevelName":"Silver",
-      "howToEarnUrl":"https://www.winzogames.com/",
-      "userPerfomacemetric":{
-        "lifeTimeReferrals":"5,789",
-        "lifeTimeEarning":"₹23,968",
-        "NewReferrals":"1,496",
-        "referralEarnings":"₹23,968"
+      "ssLevelName": "Silver",
+      "howToEarnUrl": "https://www.winzogames.com/",
+      "userPerfomacemetric": {
+        "lifeTimeReferrals": "5,789",
+        "lifeTimeEarning": "₹23,968",
+        "NewReferrals": "1,496",
+        "referralEarnings": "₹23,968",
+        "ActiveUsers": "5,459",
+        "Commission": "₹20,476",
+        "isCommissionLocked": true,
+        "newReferralInfo": {
+          "description": "test 121 235 342",
+          "iconURl": "",
+          "header": "technology",
+          "action": [
+            {
+              "cta": "wow awesome",
+              "deeplink": ""
+            }
+          ]
+        },
+        "commisionInfo": {
+          "description": "test 121 235 342",
+          "iconURl": "",
+          "header": "technology",
+          "action": [
+            {
+              "cta": "wow awesome",
+              "deeplink": ""
+            }
+          ]
+        },
+        "withdrawableBalance":"₹40,020,476",
+        "isWithdrawalLocked":true,
+        "withdawalInfo":{
+          "description": "test 121 235 342",
+          "iconURl": "",
+          "header": "technology",
+          "action": [
+            {
+              "cta": "wow awesome",
+              "deeplink": ""
+            }
+          ]
+        }
       }
     }
   },
