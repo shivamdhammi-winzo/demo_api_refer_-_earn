@@ -98,9 +98,9 @@
       "icon": ""
     },
     "bottomBanner": {
-        "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
-        "deepLink": ""
-      },
+      "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
+      "deepLink": ""
+    },
     "bottomReferButtonInfo": {
       "text": "",
       "deepLink": "",
@@ -110,6 +110,18 @@
       "qualityScore": 2,
       "badgeIconUrl": "https://d5d8d9fr8izry.cloudfront.net/superstar/rookie-ss-c.png",
       "ssLevelName": "Silver",
+      "customerSupportMode": [
+        {
+          "iconUrl": "https://i.ibb.co/PNsJV5L/group.png",
+          "Deeplink": "",
+          "Type": 1
+        },
+        {
+          "iconUrl": "https://i.ibb.co/8msxqxf/whatsapp.png",
+          "Deeplink": "",
+          "Type": 1
+        }
+      ],
       "howToEarnUrl": "https://www.winzogames.com/",
       "userPerfomacemetric": {
         "lifeTimeReferrals": "5,789",
@@ -141,9 +153,9 @@
             }
           ]
         },
-        "withdrawableBalance":"₹40,020,476",
-        "isWithdrawalLocked":true,
-        "withdawalInfo":{
+        "withdrawableBalance": "₹40,020,476",
+        "isWithdrawalLocked": true,
+        "withdawalInfo": {
           "description": "test 121 235 342",
           "iconURl": "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png",
           "header": "technology",
