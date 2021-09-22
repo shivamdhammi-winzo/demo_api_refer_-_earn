@@ -1,97 +1,123 @@
 {
-   "referAndEarnData":{
-      "userType":1,
-      "totalReferrals":5,
-      "headerImageUrl":"",
-      "carousel":[
-         {
-            "imageUrl":"",
-            "deepLink":""
-         }
-      ],
-      "referralBenefits":[
-         {
-            "amount":"10",
-            "mainText":"Friend Install and verify the App",
-            "amountBreakUp":"`5 Bonus + `5 unplayed cash",
-            "iconUrl":"",
-            "gradient":[
-               "#00c4c3",
-               "#5d00ff18",
-               "#007aff00"
-            ],
-            "info":{
-               "description":"",
-               "iconURl":"",
-               "header":"",
-               "action":[
-                  {
-                     "cta":"",
-                     "deeplink":""
-                  }
-               ]
-            }
-         },
-         {
-            "amount":"30",
-            "mainText":"Friend’s 1st Deposit",
-            "amountBreakUp":"`15 Bonus + `15 Winnings",
-            "iconUrl":"",
-            "gradient":[
-               "#ff6fb6",
-               "#5dff0000",
-               "#00fa0000"
-            ],
-            "info":{
-               "description":"",
-               "iconURl":"",
-               "header":"",
-               "action":[
-                  {
-                     "cta":"",
-                     "deeplink":""
-                  }
-               ]
-            }
-         },
-         {
-            "amount":"5",
-            "mainText":"Friend Plays 10 games",
-            "amountBreakUp":"",
-            "iconUrl":"",
-            "gradient":[
-               "#00bac4",
-               "#5d00a4ff",
-               "#0000facb"
-            ],
-            "info":{
-               "description":"",
-               "iconURl":"",
-               "header":"",
-               "action":[
-                  {
-                     "cta":"",
-                     "deeplink":""
-                  }
-               ]
-            }
-         }
-      ],
-      "referButtonInfo":{
-         "text":"Refer your friends now",
-         "deepLink":"",
-         "icon":""
-      },
-      "bottomBanner":[
-         {
-            "imageUrl":"",
-            "deepLink":""
-         }
-      ],
-      "bottomReferButtonInfo":{
-         "text":"",
-         "deepLink":"",
-         "icon":""
+  "referAndEarnData": {
+    "userType": 1,
+    "totalReferrals": 5,
+    "headerImageUrl": "",
+    "carousel": [
+      {
+        "imageUrl": "",
+        "deepLink": ""
       }
-   }
+    ],
+    "referralBenefits": [
+      {
+        "amount": "10",
+        "mainText": "Friend Install and verify the App",
+        "amountBreakUp": "`5 Bonus + `5 unplayed cash",
+        "iconUrl": "",
+        "gradient": [
+          "#00c4c3",
+          "#5d00ff18",
+          "#007aff00"
+        ],
+        "info": {
+          "description": "",
+          "iconURl": "",
+          "header": "",
+          "action": [
+            {
+              "cta": "",
+              "deeplink": ""
+            }
+          ]
+        }
+      },
+      {
+        "amount": "30",
+        "mainText": "Friend’s 1st Deposit",
+        "amountBreakUp": "`15 Bonus + `15 Winnings",
+        "iconUrl": "",
+        "gradient": [
+          "#ff6fb6",
+          "#5dff0000",
+          "#00fa0000"
+        ],
+        "info": {
+          "description": "",
+          "iconURl": "",
+          "header": "",
+          "action": [
+            {
+              "cta": "",
+              "deeplink": ""
+            }
+          ]
+        }
+      },
+      {
+        "amount": "5",
+        "mainText": "Friend Plays 10 games",
+        "amountBreakUp": "",
+        "iconUrl": "",
+        "gradient": [
+          "#00bac4",
+          "#5d00a4ff",
+          "#0000facb"
+        ],
+        "info": {
+          "description": "",
+          "iconURl": "",
+          "header": "",
+          "action": [
+            {
+              "cta": "",
+              "deeplink": ""
+            }
+          ]
+        }
+      }
+    ],
+    "referButtonInfo": {
+      "text": "Refer your friends now",
+      "deepLink": "",
+      "icon": ""
+    },
+    "bottomBanner": [
+      {
+        "imageUrl": "",
+        "deepLink": ""
+      }
+    ],
+    "bottomReferButtonInfo": {
+      "text": "",
+      "deepLink": "",
+      "icon": ""
+    }
+  },
+  "commission": {
+    "targetTitle": "Active Users",
+    "targetValue": "20,476",
+    "targetToUnlockTitle": "Target to unlock",
+    "targetToUnlockValue": "30,000",
+    "targetUnlockDesc": "My text <ul><li>bullet one</li><li>bullet two</li></ul>",
+    "cards": [
+      {
+        "desc": "a b c d e f g h i j k l m n 0 p q r s t u v w x y z",
+        "iconUrl": "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png",
+        "header": "just some contest",
+        "actions": null
+      },
+      {
+        "desc": "a b c d e f g h i j k l m n 0 p q r s t u v w x y z",
+        "iconUrl": "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png",
+        "header": "just some contest",
+        "actions": [
+          {
+            "ctaTitle": "create now",
+            "deeplink": ""
+          }
+        ]
+      }
+    ]
+  }
 }
