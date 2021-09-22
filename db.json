@@ -14,7 +14,7 @@
         "amount": "10",
         "mainText": "Friend Install and verify the App",
         "amountBreakUp": "`5 Bonus + `5 unplayed cash",
-        "iconUrl": "",
+        "iconUrl": "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png",
         "gradient": [
           "#00c4c3",
           "#5d00ff18",
@@ -22,7 +22,7 @@
         ],
         "info": {
           "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown.",
-          "iconURl": "",
+          "iconURl": "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png",
           "header": "Friend Play Games",
           "action": [
             {
@@ -44,7 +44,7 @@
         ],
         "info": {
           "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown.",
-          "iconURl": "",
+          "iconURl": "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png",
           "header": "Friend Play Games",
           "action": [
             {
@@ -58,7 +58,7 @@
         "amount": "5",
         "mainText": "Friend Plays 10 games",
         "amountBreakUp": "",
-        "iconUrl": "",
+        "iconUrl": "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png",
         "gradient": [
           "#00bac4",
           "#5d00a4ff",
@@ -66,7 +66,7 @@
         ],
         "info": {
           "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown.",
-          "iconURl": "",
+          "iconURl": "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png",
           "header": "Friend Play Games",
           "action": [
             {
