@@ -94,20 +94,10 @@
       "deepLink": "",
       "icon": ""
     },
-    "bottomBanner": [
-      {
+    "bottomBanner": {
         "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
         "deepLink": ""
       },
-      {
-        "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
-        "deepLink": ""
-      },
-      {
-        "imageUrl": "",
-        "deepLink": ""
-      }
-    ],
     "bottomReferButtonInfo": {
       "text": "",
       "deepLink": "",
