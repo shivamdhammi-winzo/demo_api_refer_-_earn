@@ -21,12 +21,12 @@
           "#007aff00"
         ],
         "info": {
-          "description": "",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown.",
           "iconURl": "",
-          "header": "",
+          "header": "Friend Play Games",
           "action": [
             {
-              "cta": "",
+              "cta": "Ok, I got it",
               "deeplink": ""
             }
           ]
@@ -34,7 +34,7 @@
       },
       {
         "amount": "30",
-        "mainText": "Friend’s 1st Deposit",
+        "mainText": "Friend's 1st Deposit",
         "amountBreakUp": "`15 Bonus + `15 Winnings",
         "iconUrl": "",
         "gradient": [
@@ -43,12 +43,12 @@
           "#00fa0000"
         ],
         "info": {
-          "description": "",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown.",
           "iconURl": "",
-          "header": "",
+          "header": "Friend Play Games",
           "action": [
             {
-              "cta": "",
+              "cta": "Ok, I got it",
               "deeplink": ""
             }
           ]
@@ -65,12 +65,12 @@
           "#0000facb"
         ],
         "info": {
-          "description": "",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown.",
           "iconURl": "",
-          "header": "",
+          "header": "Friend Play Games",
           "action": [
             {
-              "cta": "",
+              "cta": "Ok, I got it",
               "deeplink": ""
             }
           ]
@@ -92,6 +92,18 @@
       "text": "",
       "deepLink": "",
       "icon": ""
+    },
+    "ssData":{
+      "qualityScore": 2,
+      "badgeIconUrl": "",
+      "ssLevelName":"Silver",
+      "howToEarnUrl":"https://www.winzogames.com/",
+      "userPerfomacemetric":{
+        "lifeTimeReferrals":"5,789",
+        "lifeTimeEarning":"₹23,968",
+        "NewReferrals":"1,496",
+        "referralEarnings":"₹23,968"
+      }
     }
   },
   "commission": {
