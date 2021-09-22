@@ -2,10 +2,22 @@
   "referAndEarnData": {
     "userType": 1,
     "totalReferrals": 5,
-    "headerImageUrl": "",
+    "headerImageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
     "carousel": [
       {
-        "imageUrl": "",
+        "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
+        "deepLink": ""
+      },
+      {
+        "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
+        "deepLink": ""
+      },
+      {
+        "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
+        "deepLink": ""
+      },
+      {
+        "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
         "deepLink": ""
       }
     ],
@@ -83,6 +95,14 @@
       "icon": ""
     },
     "bottomBanner": [
+      {
+        "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
+        "deepLink": ""
+      },
+      {
+        "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
+        "deepLink": ""
+      },
       {
         "imageUrl": "",
         "deepLink": ""
