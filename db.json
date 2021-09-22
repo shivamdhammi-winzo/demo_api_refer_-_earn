@@ -2,22 +2,22 @@
   "referAndEarnData": {
     "userType": 1,
     "totalReferrals": 5,
-    "headerImageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
+    "headerImageUrl": "https://d5d8d9fr8izry.cloudfront.net/refer_home/ref-banner-large.png",
     "carousel": [
       {
-        "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
+        "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/winzo-app-assets/android/images/refer_n_earn_head_image_v2.png",
         "deepLink": ""
       },
       {
-        "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
+        "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/winzo-app-assets/android/images/refer_n_earn_head_image_v2.png",
         "deepLink": ""
       },
       {
-        "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
+        "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/winzo-app-assets/android/images/refer_n_earn_head_image_v2.png",
         "deepLink": ""
       },
       {
-        "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
+        "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/winzo-app-assets/android/images/refer_n_earn_head_image_v2.png",
         "deepLink": ""
       }
     ],
@@ -98,7 +98,7 @@
       "icon": ""
     },
     "bottomBanner": {
-      "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/team-tournament/live/themes/sachin/Sachin-bg-medium.png",
+      "imageUrl": "https://d5d8d9fr8izry.cloudfront.net/refer_home/superstar_banner_small.png",
       "deepLink": ""
     },
     "bottomReferButtonInfo": {
