@@ -128,7 +128,7 @@
         "isCommissionLocked": true,
         "newReferralInfo": {
           "description": "test 121 235 342",
-          "iconURl": "",
+          "iconURl": "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png",
           "header": "technology",
           "action": [
             {
@@ -139,7 +139,7 @@
         },
         "commisionInfo": {
           "description": "test 121 235 342",
-          "iconURl": "",
+          "iconURl": "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png",
           "header": "technology",
           "action": [
             {
@@ -152,7 +152,7 @@
         "isWithdrawalLocked":true,
         "withdawalInfo":{
           "description": "test 121 235 342",
-          "iconURl": "",
+          "iconURl": "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png",
           "header": "technology",
           "action": [
             {
